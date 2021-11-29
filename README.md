@@ -3,16 +3,16 @@
   <br>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/ssm0SSwVbICGc/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/ssm0SSwVbICGc/giphy.gif" width="150" align= "right"/>
    <br>
   <samp>Hello there. I'm <strong>Ismael.</strong><br> I'm a student and self-taught person</samp>
   <br>
   <br>
- 
+
 </p>
 
 ------------
-<p align ="center">
+<p align ="right">
 <samp><strong>💡Goals for 2021💡</samp></strong><br>
 <samp> Dive into programming.</samp><br>
 <samp>  Learn HTML and CSS.</samp><br>
