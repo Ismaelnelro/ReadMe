@@ -7,11 +7,13 @@
    <br>
   <samp>Hello there. I'm <strong>Ismael.</strong><br> I'm a student and self-taught person</samp>
   <br>
-  <br>
+  <br
 
 </p>
 
 ------------
+
+
 <p align ="right">
 <samp><strong>💡Goals for 2021💡</samp></strong><br>
 <samp> Dive into programming.</samp><br>
@@ -23,7 +25,12 @@
 <samp>Refine 2021 Goals.</samp><br>
 <samp>Learn JAVA.</samp>
 </p>
-  
+
+ <p align ="left">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🚀</p>
+ <p align ="left"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🚀</p>
+ <p align ="left"> &nbsp &nbsp &nbsp🚀</p>
+ <p align ="left">🚀</p>
+ 
 ------------
 
 <p align ="center">
